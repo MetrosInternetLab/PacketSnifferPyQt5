@@ -1,4 +1,6 @@
 # PacketSnifferPyQt5
+## Help
+Помогите с разработкой (Help with development) !!!
 ## Libs
 ```bash
 pip install PyQt5
